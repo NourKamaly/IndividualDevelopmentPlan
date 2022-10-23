@@ -1,7 +1,7 @@
 # Individual Development Plan
-
-1. Spark:
-   - https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop
+The time span of each course should be 3 weeks 
+1. Spark:  
+   - https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop  [October 23, 2022 - November 10, 2022]
    - https://www.coursera.org/learn/scala-spark-big-data
    - https://www.coursera.org/professional-certificates/ibm-data-engineer
   
@@ -26,8 +26,12 @@
  10. Ensemble Learning
  11. Digital Signal Processing
  12. Flutter
+     - https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=1
+
  13. Firebase
- 
+     - https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb
+
+ Flutter & Firebase : https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
  Extras: https://www.coursera.org/projects/create-buy-signal-filter-using-r-quantmod-package
    
  
