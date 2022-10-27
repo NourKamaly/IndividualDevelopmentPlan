@@ -36,7 +36,8 @@ Add projects
  14. Kuberetes & Docker (exercise on airline prediction, NASA space apps)
  15. MLOps
  16. Agile
-
+ 17. PL/SQl 
+     - https://www.youtube.com/watch?v=rbarR4_gaH8&list=PLL_LQvNX4xKyiExzq9GKwORoH6nvaRnOQ
  Flutter & Firebase : https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
  Extras: https://www.coursera.org/projects/create-buy-signal-filter-using-r-quantmod-package
    
