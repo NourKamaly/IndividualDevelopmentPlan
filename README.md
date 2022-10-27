@@ -24,6 +24,7 @@ Add projects
     - https://www.coursera.org/learn/introduction-to-quantum-information?=
     
  9. Cloud Computing
+    - https://www.youtube.com/watch?v=SOTamWNgDKc
  10. Ensemble Learning
  11. Digital Signal Processing
  12. Flutter
@@ -33,7 +34,7 @@ Add projects
      - https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb
      
  14. Kuberetes & Docker (exercise on airline prediction, NASA space apps)
- 15. MLOps (ali amin & omar eissa)
+ 15. MLOps
  16. Agile
 
  Flutter & Firebase : https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
