@@ -12,6 +12,7 @@ Add projects
  
  3. Deep Learning Nanodegree
  4. Computer Vision Nanodegree [1] [October 23, 2022 - November 10, 2022]
+    - https://www.youtube.com/watch?v=01sAkU_NvOY
  5. Natural Language Processing Nanodegree
  
  6. Data Analysis 
